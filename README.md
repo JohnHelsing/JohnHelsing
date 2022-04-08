@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JohnHelsing
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning golang and reinventing the wheel with java
 - 📫 https://zhaohaixin.com
 
 <!---
