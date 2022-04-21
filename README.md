@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnHelsing
-- 👀 I’m interested in coding
+- 👀 My Github is a mirror of my own gitlab https://gitlab.zhaohaixin.com
 - 🌱 I’m currently learning golang and reinventing the wheel with java
 - 📫 https://zhaohaixin.com
 
